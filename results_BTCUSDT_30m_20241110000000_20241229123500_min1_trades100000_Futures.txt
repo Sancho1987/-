@@ -1,0 +1,1098 @@
+Interval with 2 candles:
+  - Start Time: 2024-11-10 05:00:00
+  - Start Open Price: 76703.40
+  - End Time: 2024-11-10 05:59:59.999000
+  - End Close Price: 77029.50
+
+Interval with 5 candles:
+  - Start Time: 2024-11-10 07:30:00
+  - Start Open Price: 77294.80
+  - End Time: 2024-11-10 09:59:59.999000
+  - End Close Price: 78992.70
+
+Interval with 4 candles:
+  - Start Time: 2024-11-10 13:30:00
+  - Start Open Price: 79338.20
+  - End Time: 2024-11-10 15:29:59.999000
+  - End Close Price: 79350.10
+
+Interval with 1 candles:
+  - Start Time: 2024-11-10 17:30:00
+  - Start Open Price: 79772.50
+  - End Time: 2024-11-10 17:59:59.999000
+  - End Close Price: 79546.60
+
+Interval with 12 candles:
+  - Start Time: 2024-11-10 20:30:00
+  - Start Open Price: 79849.80
+  - End Time: 2024-11-11 02:29:59.999000
+  - End Close Price: 80425.00
+
+Interval with 1 candles:
+  - Start Time: 2024-11-11 03:00:00
+  - Start Open Price: 80409.90
+  - End Time: 2024-11-11 03:29:59.999000
+  - End Close Price: 80773.40
+
+Interval with 2 candles:
+  - Start Time: 2024-11-11 04:30:00
+  - Start Open Price: 80820.00
+  - End Time: 2024-11-11 05:29:59.999000
+  - End Close Price: 81465.60
+
+Interval with 1 candles:
+  - Start Time: 2024-11-11 06:30:00
+  - Start Open Price: 80995.60
+  - End Time: 2024-11-11 06:59:59.999000
+  - End Close Price: 81662.40
+
+Interval with 2 candles:
+  - Start Time: 2024-11-11 08:30:00
+  - Start Open Price: 81047.00
+  - End Time: 2024-11-11 09:29:59.999000
+  - End Close Price: 81131.80
+
+Interval with 2 candles:
+  - Start Time: 2024-11-11 12:30:00
+  - Start Open Price: 81417.10
+  - End Time: 2024-11-11 13:29:59.999000
+  - End Close Price: 81950.20
+
+Interval with 1 candles:
+  - Start Time: 2024-11-11 15:00:00
+  - Start Open Price: 82168.70
+  - End Time: 2024-11-11 15:29:59.999000
+  - End Close Price: 82142.50
+
+Interval with 1 candles:
+  - Start Time: 2024-11-11 16:00:00
+  - Start Open Price: 82179.90
+  - End Time: 2024-11-11 16:29:59.999000
+  - End Close Price: 81893.30
+
+Interval with 32 candles:
+  - Start Time: 2024-11-11 17:00:00
+  - Start Open Price: 81850.30
+  - End Time: 2024-11-12 08:59:59.999000
+  - End Close Price: 88466.10
+
+Interval with 32 candles:
+  - Start Time: 2024-11-12 09:30:00
+  - Start Open Price: 88622.10
+  - End Time: 2024-11-13 01:29:59.999000
+  - End Close Price: 88083.90
+
+Interval with 1 candles:
+  - Start Time: 2024-11-13 02:00:00
+  - Start Open Price: 88631.50
+  - End Time: 2024-11-13 02:29:59.999000
+  - End Close Price: 88013.30
+
+Interval with 15 candles:
+  - Start Time: 2024-11-13 03:00:00
+  - Start Open Price: 87972.00
+  - End Time: 2024-11-13 10:29:59.999000
+  - End Close Price: 87184.30
+
+Interval with 1 candles:
+  - Start Time: 2024-11-13 14:00:00
+  - Start Open Price: 87584.50
+  - End Time: 2024-11-13 14:29:59.999000
+  - End Close Price: 87680.30
+
+Interval with 19 candles:
+  - Start Time: 2024-11-13 16:00:00
+  - Start Open Price: 87679.90
+  - End Time: 2024-11-14 01:29:59.999000
+  - End Close Price: 89585.50
+
+Interval with 7 candles:
+  - Start Time: 2024-11-14 02:00:00
+  - Start Open Price: 89761.20
+  - End Time: 2024-11-14 05:29:59.999000
+  - End Close Price: 89989.20
+
+Interval with 4 candles:
+  - Start Time: 2024-11-14 10:00:00
+  - Start Open Price: 89336.20
+  - End Time: 2024-11-14 11:59:59.999000
+  - End Close Price: 90595.00
+
+Interval with 5 candles:
+  - Start Time: 2024-11-14 13:00:00
+  - Start Open Price: 90944.00
+  - End Time: 2024-11-14 15:29:59.999000
+  - End Close Price: 91298.10
+
+Interval with 10 candles:
+  - Start Time: 2024-11-14 16:30:00
+  - Start Open Price: 90973.70
+  - End Time: 2024-11-14 21:29:59.999000
+  - End Close Price: 89386.50
+
+Interval with 3 candles:
+  - Start Time: 2024-11-14 23:00:00
+  - Start Open Price: 89502.60
+  - End Time: 2024-11-15 00:29:59.999000
+  - End Close Price: 88121.40
+
+Interval with 4 candles:
+  - Start Time: 2024-11-15 01:30:00
+  - Start Open Price: 87787.10
+  - End Time: 2024-11-15 03:29:59.999000
+  - End Close Price: 88245.70
+
+Interval with 1 candles:
+  - Start Time: 2024-11-15 04:00:00
+  - Start Open Price: 87920.10
+  - End Time: 2024-11-15 04:29:59.999000
+  - End Close Price: 87683.60
+
+Interval with 1 candles:
+  - Start Time: 2024-11-15 07:30:00
+  - Start Open Price: 87841.00
+  - End Time: 2024-11-15 07:59:59.999000
+  - End Close Price: 87505.30
+
+Interval with 2 candles:
+  - Start Time: 2024-11-15 12:00:00
+  - Start Open Price: 88142.10
+  - End Time: 2024-11-15 12:59:59.999000
+  - End Close Price: 89250.00
+
+Interval with 2 candles:
+  - Start Time: 2024-11-15 15:00:00
+  - Start Open Price: 89783.00
+  - End Time: 2024-11-15 15:59:59.999000
+  - End Close Price: 89820.00
+
+Interval with 9 candles:
+  - Start Time: 2024-11-15 16:30:00
+  - Start Open Price: 89658.20
+  - End Time: 2024-11-15 20:59:59.999000
+  - End Close Price: 89514.00
+
+Interval with 3 candles:
+  - Start Time: 2024-11-15 22:30:00
+  - Start Open Price: 89760.80
+  - End Time: 2024-11-15 23:59:59.999000
+  - End Close Price: 91479.30
+
+Interval with 1 candles:
+  - Start Time: 2024-11-16 00:30:00
+  - Start Open Price: 91323.40
+  - End Time: 2024-11-16 00:59:59.999000
+  - End Close Price: 91727.60
+
+Interval with 1 candles:
+  - Start Time: 2024-11-16 15:00:00
+  - Start Open Price: 91240.10
+  - End Time: 2024-11-16 15:29:59.999000
+  - End Close Price: 90863.90
+
+Interval with 2 candles:
+  - Start Time: 2024-11-16 18:00:00
+  - Start Open Price: 91031.50
+  - End Time: 2024-11-16 18:59:59.999000
+  - End Close Price: 90578.00
+
+Interval with 2 candles:
+  - Start Time: 2024-11-17 04:30:00
+  - Start Open Price: 90742.80
+  - End Time: 2024-11-17 05:29:59.999000
+  - End Close Price: 89779.90
+
+Interval with 1 candles:
+  - Start Time: 2024-11-17 12:00:00
+  - Start Open Price: 91048.90
+  - End Time: 2024-11-17 12:29:59.999000
+  - End Close Price: 91199.90
+
+Interval with 1 candles:
+  - Start Time: 2024-11-17 16:30:00
+  - Start Open Price: 90806.30
+  - End Time: 2024-11-17 16:59:59.999000
+  - End Close Price: 90556.90
+
+Interval with 1 candles:
+  - Start Time: 2024-11-17 17:30:00
+  - Start Open Price: 90129.90
+  - End Time: 2024-11-17 17:59:59.999000
+  - End Close Price: 90354.90
+
+Interval with 1 candles:
+  - Start Time: 2024-11-18 01:00:00
+  - Start Open Price: 89191.70
+  - End Time: 2024-11-18 01:29:59.999000
+  - End Close Price: 89566.90
+
+Interval with 1 candles:
+  - Start Time: 2024-11-18 04:30:00
+  - Start Open Price: 90615.30
+  - End Time: 2024-11-18 04:59:59.999000
+  - End Close Price: 90811.40
+
+Interval with 2 candles:
+  - Start Time: 2024-11-18 09:30:00
+  - Start Open Price: 91019.60
+  - End Time: 2024-11-18 10:29:59.999000
+  - End Close Price: 91633.90
+
+Interval with 3 candles:
+  - Start Time: 2024-11-18 14:00:00
+  - Start Open Price: 91862.00
+  - End Time: 2024-11-18 15:29:59.999000
+  - End Close Price: 90660.00
+
+Interval with 17 candles:
+  - Start Time: 2024-11-18 16:00:00
+  - Start Open Price: 90571.50
+  - End Time: 2024-11-19 00:29:59.999000
+  - End Close Price: 91734.60
+
+Interval with 2 candles:
+  - Start Time: 2024-11-19 02:00:00
+  - Start Open Price: 91222.70
+  - End Time: 2024-11-19 02:59:59.999000
+  - End Close Price: 90507.40
+
+Interval with 20 candles:
+  - Start Time: 2024-11-19 15:00:00
+  - Start Open Price: 91717.60
+  - End Time: 2024-11-20 00:59:59.999000
+  - End Close Price: 92239.10
+
+Interval with 1 candles:
+  - Start Time: 2024-11-20 01:30:00
+  - Start Open Price: 91967.40
+  - End Time: 2024-11-20 01:59:59.999000
+  - End Close Price: 91857.90
+
+Interval with 1 candles:
+  - Start Time: 2024-11-20 12:00:00
+  - Start Open Price: 93212.90
+  - End Time: 2024-11-20 12:29:59.999000
+  - End Close Price: 93307.00
+
+Interval with 13 candles:
+  - Start Time: 2024-11-20 16:00:00
+  - Start Open Price: 93563.00
+  - End Time: 2024-11-20 22:29:59.999000
+  - End Close Price: 93380.50
+
+Interval with 2 candles:
+  - Start Time: 2024-11-20 23:00:00
+  - Start Open Price: 93999.90
+  - End Time: 2024-11-20 23:59:59.999000
+  - End Close Price: 94256.70
+
+Interval with 1 candles:
+  - Start Time: 2024-11-21 03:30:00
+  - Start Open Price: 94840.80
+  - End Time: 2024-11-21 03:59:59.999000
+  - End Close Price: 94708.00
+
+Interval with 1 candles:
+  - Start Time: 2024-11-21 05:00:00
+  - Start Open Price: 94688.30
+  - End Time: 2024-11-21 05:29:59.999000
+  - End Close Price: 94185.00
+
+Interval with 7 candles:
+  - Start Time: 2024-11-21 06:00:00
+  - Start Open Price: 94384.90
+  - End Time: 2024-11-21 09:29:59.999000
+  - End Close Price: 97117.40
+
+Interval with 1 candles:
+  - Start Time: 2024-11-21 12:00:00
+  - Start Open Price: 97132.80
+  - End Time: 2024-11-21 12:29:59.999000
+  - End Close Price: 97450.00
+
+Interval with 6 candles:
+  - Start Time: 2024-11-21 14:00:00
+  - Start Open Price: 97755.50
+  - End Time: 2024-11-21 16:59:59.999000
+  - End Close Price: 97545.30
+
+Interval with 14 candles:
+  - Start Time: 2024-11-21 17:30:00
+  - Start Open Price: 97327.40
+  - End Time: 2024-11-22 00:29:59.999000
+  - End Close Price: 97976.20
+
+Interval with 2 candles:
+  - Start Time: 2024-11-22 05:30:00
+  - Start Open Price: 98385.50
+  - End Time: 2024-11-22 06:29:59.999000
+  - End Close Price: 98712.20
+
+Interval with 2 candles:
+  - Start Time: 2024-11-22 10:00:00
+  - Start Open Price: 99048.90
+  - End Time: 2024-11-22 10:59:59.999000
+  - End Close Price: 99252.60
+
+Interval with 9 candles:
+  - Start Time: 2024-11-22 16:00:00
+  - Start Open Price: 98680.50
+  - End Time: 2024-11-22 20:29:59.999000
+  - End Close Price: 99166.30
+
+Interval with 3 candles:
+  - Start Time: 2024-11-22 22:00:00
+  - Start Open Price: 99142.70
+  - End Time: 2024-11-22 23:29:59.999000
+  - End Close Price: 99267.00
+
+Interval with 3 candles:
+  - Start Time: 2024-11-23 19:00:00
+  - Start Open Price: 98426.10
+  - End Time: 2024-11-23 20:29:59.999000
+  - End Close Price: 97969.80
+
+Interval with 2 candles:
+  - Start Time: 2024-11-24 15:30:00
+  - Start Open Price: 97267.30
+  - End Time: 2024-11-24 16:29:59.999000
+  - End Close Price: 97580.30
+
+Interval with 2 candles:
+  - Start Time: 2024-11-24 17:00:00
+  - Start Open Price: 97280.80
+  - End Time: 2024-11-24 17:59:59.999000
+  - End Close Price: 97111.10
+
+Interval with 2 candles:
+  - Start Time: 2024-11-24 18:30:00
+  - Start Open Price: 96727.10
+  - End Time: 2024-11-24 19:29:59.999000
+  - End Close Price: 96605.40
+
+Interval with 1 candles:
+  - Start Time: 2024-11-25 01:00:00
+  - Start Open Price: 97037.70
+  - End Time: 2024-11-25 01:29:59.999000
+  - End Close Price: 97647.90
+
+Interval with 1 candles:
+  - Start Time: 2024-11-25 02:00:00
+  - Start Open Price: 98082.10
+  - End Time: 2024-11-25 02:29:59.999000
+  - End Close Price: 98047.10
+
+Interval with 1 candles:
+  - Start Time: 2024-11-25 04:00:00
+  - Start Open Price: 97763.20
+  - End Time: 2024-11-25 04:29:59.999000
+  - End Close Price: 97142.20
+
+Interval with 1 candles:
+  - Start Time: 2024-11-25 12:00:00
+  - Start Open Price: 98282.00
+  - End Time: 2024-11-25 12:29:59.999000
+  - End Close Price: 98722.80
+
+Interval with 1 candles:
+  - Start Time: 2024-11-25 16:00:00
+  - Start Open Price: 97981.60
+  - End Time: 2024-11-25 16:29:59.999000
+  - End Close Price: 97719.20
+
+Interval with 8 candles:
+  - Start Time: 2024-11-25 17:30:00
+  - Start Open Price: 97319.30
+  - End Time: 2024-11-25 21:29:59.999000
+  - End Close Price: 95521.20
+
+Interval with 3 candles:
+  - Start Time: 2024-11-25 22:00:00
+  - Start Open Price: 95210.40
+  - End Time: 2024-11-25 23:29:59.999000
+  - End Close Price: 95076.10
+
+Interval with 7 candles:
+  - Start Time: 2024-11-26 00:30:00
+  - Start Open Price: 94942.20
+  - End Time: 2024-11-26 03:59:59.999000
+  - End Close Price: 93903.30
+
+Interval with 1 candles:
+  - Start Time: 2024-11-26 10:00:00
+  - Start Open Price: 94553.60
+  - End Time: 2024-11-26 10:29:59.999000
+  - End Close Price: 94023.30
+
+Interval with 11 candles:
+  - Start Time: 2024-11-26 11:00:00
+  - Start Open Price: 93842.10
+  - End Time: 2024-11-26 16:29:59.999000
+  - End Close Price: 92581.00
+
+Interval with 7 candles:
+  - Start Time: 2024-11-26 17:00:00
+  - Start Open Price: 92248.30
+  - End Time: 2024-11-26 20:29:59.999000
+  - End Close Price: 93846.10
+
+Interval with 7 candles:
+  - Start Time: 2024-11-26 21:00:00
+  - Start Open Price: 93636.70
+  - End Time: 2024-11-27 00:29:59.999000
+  - End Close Price: 91713.30
+
+Interval with 1 candles:
+  - Start Time: 2024-11-27 04:00:00
+  - Start Open Price: 92012.20
+  - End Time: 2024-11-27 04:29:59.999000
+  - End Close Price: 92447.60
+
+Interval with 9 candles:
+  - Start Time: 2024-11-27 16:00:00
+  - Start Open Price: 93555.40
+  - End Time: 2024-11-27 20:29:59.999000
+  - End Close Price: 95902.30
+
+Interval with 1 candles:
+  - Start Time: 2024-11-27 21:00:00
+  - Start Open Price: 96284.20
+  - End Time: 2024-11-27 21:29:59.999000
+  - End Close Price: 96187.60
+
+Interval with 2 candles:
+  - Start Time: 2024-11-27 23:00:00
+  - Start Open Price: 96670.10
+  - End Time: 2024-11-27 23:59:59.999000
+  - End Close Price: 96545.60
+
+Interval with 2 candles:
+  - Start Time: 2024-11-28 06:00:00
+  - Start Open Price: 95763.90
+  - End Time: 2024-11-28 06:59:59.999000
+  - End Close Price: 95523.10
+
+Interval with 1 candles:
+  - Start Time: 2024-11-28 14:30:00
+  - Start Open Price: 94972.00
+  - End Time: 2024-11-28 14:59:59.999000
+  - End Close Price: 95509.90
+
+Interval with 1 candles:
+  - Start Time: 2024-11-28 17:00:00
+  - Start Open Price: 95773.40
+  - End Time: 2024-11-28 17:29:59.999000
+  - End Close Price: 95572.20
+
+Interval with 1 candles:
+  - Start Time: 2024-11-29 05:00:00
+  - Start Open Price: 95975.10
+  - End Time: 2024-11-29 05:29:59.999000
+  - End Close Price: 96481.90
+
+Interval with 1 candles:
+  - Start Time: 2024-11-29 14:30:00
+  - Start Open Price: 97050.60
+  - End Time: 2024-11-29 14:59:59.999000
+  - End Close Price: 97302.20
+
+Interval with 6 candles:
+  - Start Time: 2024-11-29 17:30:00
+  - Start Open Price: 97307.00
+  - End Time: 2024-11-29 20:29:59.999000
+  - End Close Price: 97099.90
+
+Interval with 2 candles:
+  - Start Time: 2024-12-02 06:30:00
+  - Start Open Price: 97546.60
+  - End Time: 2024-12-02 07:29:59.999000
+  - End Close Price: 96522.80
+
+Interval with 2 candles:
+  - Start Time: 2024-12-02 11:00:00
+  - Start Open Price: 96053.50
+  - End Time: 2024-12-02 11:59:59.999000
+  - End Close Price: 95123.10
+
+Interval with 1 candles:
+  - Start Time: 2024-12-02 16:00:00
+  - Start Open Price: 95034.00
+  - End Time: 2024-12-02 16:29:59.999000
+  - End Close Price: 95747.10
+
+Interval with 8 candles:
+  - Start Time: 2024-12-02 17:30:00
+  - Start Open Price: 95955.90
+  - End Time: 2024-12-02 21:29:59.999000
+  - End Close Price: 95564.70
+
+Interval with 7 candles:
+  - Start Time: 2024-12-03 16:30:00
+  - Start Open Price: 94600.00
+  - End Time: 2024-12-03 19:59:59.999000
+  - End Close Price: 95175.30
+
+Interval with 2 candles:
+  - Start Time: 2024-12-04 04:30:00
+  - Start Open Price: 95791.20
+  - End Time: 2024-12-04 05:29:59.999000
+  - End Close Price: 95683.00
+
+Interval with 1 candles:
+  - Start Time: 2024-12-04 15:00:00
+  - Start Open Price: 96270.10
+  - End Time: 2024-12-04 15:29:59.999000
+  - End Close Price: 95985.60
+
+Interval with 1 candles:
+  - Start Time: 2024-12-04 16:30:00
+  - Start Open Price: 95720.00
+  - End Time: 2024-12-04 16:59:59.999000
+  - End Close Price: 95731.60
+
+Interval with 7 candles:
+  - Start Time: 2024-12-04 17:30:00
+  - Start Open Price: 95851.00
+  - End Time: 2024-12-04 20:59:59.999000
+  - End Close Price: 95609.70
+
+Interval with 7 candles:
+  - Start Time: 2024-12-04 21:30:00
+  - Start Open Price: 95817.10
+  - End Time: 2024-12-05 00:59:59.999000
+  - End Close Price: 97782.50
+
+Interval with 1 candles:
+  - Start Time: 2024-12-05 04:00:00
+  - Start Open Price: 98376.30
+  - End Time: 2024-12-05 04:29:59.999000
+  - End Close Price: 98450.00
+
+Interval with 13 candles:
+  - Start Time: 2024-12-05 05:00:00
+  - Start Open Price: 98254.10
+  - End Time: 2024-12-05 11:29:59.999000
+  - End Close Price: 102771.50
+
+Interval with 2 candles:
+  - Start Time: 2024-12-05 15:30:00
+  - Start Open Price: 102959.70
+  - End Time: 2024-12-05 16:29:59.999000
+  - End Close Price: 103160.50
+
+Interval with 14 candles:
+  - Start Time: 2024-12-05 17:30:00
+  - Start Open Price: 102734.30
+  - End Time: 2024-12-06 00:29:59.999000
+  - End Close Price: 99269.90
+
+Interval with 9 candles:
+  - Start Time: 2024-12-06 01:00:00
+  - Start Open Price: 98967.90
+  - End Time: 2024-12-06 05:29:59.999000
+  - End Close Price: 97882.20
+
+Interval with 1 candles:
+  - Start Time: 2024-12-06 06:00:00
+  - Start Open Price: 97657.00
+  - End Time: 2024-12-06 06:29:59.999000
+  - End Close Price: 97280.80
+
+Interval with 6 candles:
+  - Start Time: 2024-12-06 16:30:00
+  - Start Open Price: 98105.50
+  - End Time: 2024-12-06 19:29:59.999000
+  - End Close Price: 99089.20
+
+Interval with 3 candles:
+  - Start Time: 2024-12-06 20:30:00
+  - Start Open Price: 99399.90
+  - End Time: 2024-12-06 21:59:59.999000
+  - End Close Price: 101446.40
+
+Interval with 1 candles:
+  - Start Time: 2024-12-07 02:00:00
+  - Start Open Price: 100584.30
+  - End Time: 2024-12-07 02:29:59.999000
+  - End Close Price: 99462.20
+
+Interval with 3 candles:
+  - Start Time: 2024-12-09 02:30:00
+  - Start Open Price: 100465.80
+  - End Time: 2024-12-09 03:59:59.999000
+  - End Close Price: 99728.30
+
+Interval with 1 candles:
+  - Start Time: 2024-12-09 06:30:00
+  - Start Open Price: 99218.00
+  - End Time: 2024-12-09 06:59:59.999000
+  - End Close Price: 99180.00
+
+Interval with 2 candles:
+  - Start Time: 2024-12-09 10:00:00
+  - Start Open Price: 99106.60
+  - End Time: 2024-12-09 10:59:59.999000
+  - End Close Price: 99637.10
+
+Interval with 1 candles:
+  - Start Time: 2024-12-09 11:30:00
+  - Start Open Price: 99456.30
+  - End Time: 2024-12-09 11:59:59.999000
+  - End Close Price: 98972.40
+
+Interval with 1 candles:
+  - Start Time: 2024-12-09 13:00:00
+  - Start Open Price: 98459.30
+  - End Time: 2024-12-09 13:29:59.999000
+  - End Close Price: 98422.20
+
+Interval with 1 candles:
+  - Start Time: 2024-12-09 15:00:00
+  - Start Open Price: 98157.50
+  - End Time: 2024-12-09 15:29:59.999000
+  - End Close Price: 98588.70
+
+Interval with 1 candles:
+  - Start Time: 2024-12-09 16:00:00
+  - Start Open Price: 98653.60
+  - End Time: 2024-12-09 16:29:59.999000
+  - End Close Price: 99162.00
+
+Interval with 5 candles:
+  - Start Time: 2024-12-09 17:30:00
+  - Start Open Price: 99105.00
+  - End Time: 2024-12-09 19:59:59.999000
+  - End Close Price: 97884.60
+
+Interval with 1 candles:
+  - Start Time: 2024-12-09 21:00:00
+  - Start Open Price: 97406.10
+  - End Time: 2024-12-09 21:29:59.999000
+  - End Close Price: 98265.30
+
+Interval with 8 candles:
+  - Start Time: 2024-12-09 22:30:00
+  - Start Open Price: 97664.40
+  - End Time: 2024-12-10 02:29:59.999000
+  - End Close Price: 97480.00
+
+Interval with 2 candles:
+  - Start Time: 2024-12-10 03:00:00
+  - Start Open Price: 97349.10
+  - End Time: 2024-12-10 03:59:59.999000
+  - End Close Price: 97912.50
+
+Interval with 4 candles:
+  - Start Time: 2024-12-10 05:30:00
+  - Start Open Price: 97476.40
+  - End Time: 2024-12-10 07:29:59.999000
+  - End Close Price: 96505.60
+
+Interval with 2 candles:
+  - Start Time: 2024-12-10 15:30:00
+  - Start Open Price: 97283.10
+  - End Time: 2024-12-10 16:29:59.999000
+  - End Close Price: 97496.20
+
+Interval with 11 candles:
+  - Start Time: 2024-12-10 17:00:00
+  - Start Open Price: 97750.50
+  - End Time: 2024-12-10 22:29:59.999000
+  - End Close Price: 95904.10
+
+Interval with 1 candles:
+  - Start Time: 2024-12-10 23:30:00
+  - Start Open Price: 96451.00
+  - End Time: 2024-12-10 23:59:59.999000
+  - End Close Price: 96432.30
+
+Interval with 2 candles:
+  - Start Time: 2024-12-11 03:30:00
+  - Start Open Price: 96306.10
+  - End Time: 2024-12-11 04:29:59.999000
+  - End Close Price: 95914.90
+
+Interval with 1 candles:
+  - Start Time: 2024-12-11 05:30:00
+  - Start Open Price: 96313.60
+  - End Time: 2024-12-11 05:59:59.999000
+  - End Close Price: 97222.80
+
+Interval with 1 candles:
+  - Start Time: 2024-12-11 11:30:00
+  - Start Open Price: 97951.10
+  - End Time: 2024-12-11 11:59:59.999000
+  - End Close Price: 98114.10
+
+Interval with 1 candles:
+  - Start Time: 2024-12-11 16:30:00
+  - Start Open Price: 98372.00
+  - End Time: 2024-12-11 16:59:59.999000
+  - End Close Price: 98724.80
+
+Interval with 5 candles:
+  - Start Time: 2024-12-11 17:30:00
+  - Start Open Price: 98659.60
+  - End Time: 2024-12-11 19:59:59.999000
+  - End Close Price: 100568.50
+
+Interval with 3 candles:
+  - Start Time: 2024-12-11 20:30:00
+  - Start Open Price: 100501.00
+  - End Time: 2024-12-11 21:59:59.999000
+  - End Close Price: 100370.40
+
+Interval with 2 candles:
+  - Start Time: 2024-12-11 23:00:00
+  - Start Open Price: 101094.20
+  - End Time: 2024-12-11 23:59:59.999000
+  - End Close Price: 101249.00
+
+Interval with 1 candles:
+  - Start Time: 2024-12-12 06:00:00
+  - Start Open Price: 101804.80
+  - End Time: 2024-12-12 06:29:59.999000
+  - End Close Price: 101453.40
+
+Interval with 2 candles:
+  - Start Time: 2024-12-12 16:00:00
+  - Start Open Price: 100811.50
+  - End Time: 2024-12-12 16:59:59.999000
+  - End Close Price: 100894.60
+
+Interval with 5 candles:
+  - Start Time: 2024-12-12 17:30:00
+  - Start Open Price: 101380.00
+  - End Time: 2024-12-12 19:59:59.999000
+  - End Close Price: 101449.80
+
+Interval with 5 candles:
+  - Start Time: 2024-12-12 21:30:00
+  - Start Open Price: 101598.90
+  - End Time: 2024-12-12 23:59:59.999000
+  - End Close Price: 99992.80
+
+Interval with 8 candles:
+  - Start Time: 2024-12-13 17:30:00
+  - Start Open Price: 100393.80
+  - End Time: 2024-12-13 21:29:59.999000
+  - End Close Price: 101648.70
+
+Interval with 2 candles:
+  - Start Time: 2024-12-14 04:00:00
+  - Start Open Price: 101257.20
+  - End Time: 2024-12-14 04:59:59.999000
+  - End Close Price: 102112.90
+
+Interval with 1 candles:
+  - Start Time: 2024-12-14 16:00:00
+  - Start Open Price: 101269.70
+  - End Time: 2024-12-14 16:29:59.999000
+  - End Close Price: 101020.10
+
+Interval with 1 candles:
+  - Start Time: 2024-12-15 04:30:00
+  - Start Open Price: 101538.90
+  - End Time: 2024-12-15 04:59:59.999000
+  - End Close Price: 102073.40
+
+Interval with 1 candles:
+  - Start Time: 2024-12-15 07:00:00
+  - Start Open Price: 101700.00
+  - End Time: 2024-12-15 07:29:59.999000
+  - End Close Price: 102600.00
+
+Interval with 2 candles:
+  - Start Time: 2024-12-15 15:00:00
+  - Start Open Price: 102623.00
+  - End Time: 2024-12-15 15:59:59.999000
+  - End Close Price: 102926.40
+
+Interval with 1 candles:
+  - Start Time: 2024-12-15 19:30:00
+  - Start Open Price: 103111.70
+  - End Time: 2024-12-15 19:59:59.999000
+  - End Close Price: 103099.10
+
+Interval with 5 candles:
+  - Start Time: 2024-12-16 02:00:00
+  - Start Open Price: 103235.60
+  - End Time: 2024-12-16 04:29:59.999000
+  - End Close Price: 105094.40
+
+Interval with 1 candles:
+  - Start Time: 2024-12-16 05:00:00
+  - Start Open Price: 105516.80
+  - End Time: 2024-12-16 05:29:59.999000
+  - End Close Price: 104593.70
+
+Interval with 4 candles:
+  - Start Time: 2024-12-16 14:30:00
+  - Start Open Price: 104447.30
+  - End Time: 2024-12-16 16:29:59.999000
+  - End Close Price: 104015.60
+
+Interval with 11 candles:
+  - Start Time: 2024-12-16 17:30:00
+  - Start Open Price: 104339.30
+  - End Time: 2024-12-16 22:59:59.999000
+  - End Close Price: 106546.00
+
+Interval with 6 candles:
+  - Start Time: 2024-12-17 17:30:00
+  - Start Open Price: 107689.30
+  - End Time: 2024-12-17 20:29:59.999000
+  - End Close Price: 107514.70
+
+Interval with 2 candles:
+  - Start Time: 2024-12-17 21:30:00
+  - Start Open Price: 106970.10
+  - End Time: 2024-12-17 22:29:59.999000
+  - End Close Price: 106650.10
+
+Interval with 1 candles:
+  - Start Time: 2024-12-18 01:30:00
+  - Start Open Price: 105824.80
+  - End Time: 2024-12-18 01:59:59.999000
+  - End Close Price: 105907.60
+
+Interval with 2 candles:
+  - Start Time: 2024-12-18 04:30:00
+  - Start Open Price: 106283.90
+  - End Time: 2024-12-18 05:29:59.999000
+  - End Close Price: 105558.40
+
+Interval with 4 candles:
+  - Start Time: 2024-12-18 07:00:00
+  - Start Open Price: 104716.80
+  - End Time: 2024-12-18 08:59:59.999000
+  - End Close Price: 103530.10
+
+Interval with 2 candles:
+  - Start Time: 2024-12-18 09:30:00
+  - Start Open Price: 103903.60
+  - End Time: 2024-12-18 10:29:59.999000
+  - End Close Price: 104108.50
+
+Interval with 1 candles:
+  - Start Time: 2024-12-18 15:00:00
+  - Start Open Price: 104978.60
+  - End Time: 2024-12-18 15:29:59.999000
+  - End Close Price: 104894.20
+
+Interval with 4 candles:
+  - Start Time: 2024-12-18 17:30:00
+  - Start Open Price: 104668.50
+  - End Time: 2024-12-18 19:29:59.999000
+  - End Close Price: 103733.00
+
+Interval with 7 candles:
+  - Start Time: 2024-12-18 22:00:00
+  - Start Open Price: 104771.70
+  - End Time: 2024-12-19 01:29:59.999000
+  - End Close Price: 101112.70
+
+Interval with 3 candles:
+  - Start Time: 2024-12-19 02:00:00
+  - Start Open Price: 101122.40
+  - End Time: 2024-12-19 03:29:59.999000
+  - End Close Price: 100870.30
+
+Interval with 5 candles:
+  - Start Time: 2024-12-19 04:30:00
+  - Start Open Price: 100535.60
+  - End Time: 2024-12-19 06:59:59.999000
+  - End Close Price: 101163.30
+
+Interval with 1 candles:
+  - Start Time: 2024-12-19 13:30:00
+  - Start Open Price: 102053.20
+  - End Time: 2024-12-19 13:59:59.999000
+  - End Close Price: 102378.70
+
+Interval with 1 candles:
+  - Start Time: 2024-12-19 16:30:00
+  - Start Open Price: 102161.50
+  - End Time: 2024-12-19 16:59:59.999000
+  - End Close Price: 101924.70
+
+Interval with 16 candles:
+  - Start Time: 2024-12-19 17:30:00
+  - Start Open Price: 102359.80
+  - End Time: 2024-12-20 01:29:59.999000
+  - End Close Price: 97707.10
+
+Interval with 6 candles:
+  - Start Time: 2024-12-20 03:00:00
+  - Start Open Price: 97434.30
+  - End Time: 2024-12-20 05:59:59.999000
+  - End Close Price: 97594.30
+
+Interval with 2 candles:
+  - Start Time: 2024-12-20 09:30:00
+  - Start Open Price: 96665.50
+  - End Time: 2024-12-20 10:29:59.999000
+  - End Close Price: 98049.40
+
+Interval with 21 candles:
+  - Start Time: 2024-12-20 11:00:00
+  - Start Open Price: 97826.10
+  - End Time: 2024-12-20 21:29:59.999000
+  - End Close Price: 96762.80
+
+Interval with 2 candles:
+  - Start Time: 2024-12-20 22:00:00
+  - Start Open Price: 96955.70
+  - End Time: 2024-12-20 22:59:59.999000
+  - End Close Price: 97079.60
+
+Interval with 2 candles:
+  - Start Time: 2024-12-20 23:30:00
+  - Start Open Price: 97055.30
+  - End Time: 2024-12-21 00:29:59.999000
+  - End Close Price: 96123.40
+
+Interval with 1 candles:
+  - Start Time: 2024-12-21 08:30:00
+  - Start Open Price: 97550.90
+  - End Time: 2024-12-21 08:59:59.999000
+  - End Close Price: 98644.10
+
+Interval with 1 candles:
+  - Start Time: 2024-12-21 10:30:00
+  - Start Open Price: 98888.10
+  - End Time: 2024-12-21 10:59:59.999000
+  - End Close Price: 98988.10
+
+Interval with 3 candles:
+  - Start Time: 2024-12-21 15:30:00
+  - Start Open Price: 97820.40
+  - End Time: 2024-12-21 16:59:59.999000
+  - End Close Price: 97300.10
+
+Interval with 1 candles:
+  - Start Time: 2024-12-21 19:00:00
+  - Start Open Price: 97486.60
+  - End Time: 2024-12-21 19:29:59.999000
+  - End Close Price: 97540.20
+
+Interval with 1 candles:
+  - Start Time: 2024-12-21 23:00:00
+  - Start Open Price: 97242.30
+  - End Time: 2024-12-21 23:29:59.999000
+  - End Close Price: 97806.90
+
+Interval with 3 candles:
+  - Start Time: 2024-12-22 17:00:00
+  - Start Open Price: 96943.60
+  - End Time: 2024-12-22 18:29:59.999000
+  - End Close Price: 95302.20
+
+Interval with 2 candles:
+  - Start Time: 2024-12-22 22:30:00
+  - Start Open Price: 95656.30
+  - End Time: 2024-12-22 23:29:59.999000
+  - End Close Price: 94955.90
+
+Interval with 1 candles:
+  - Start Time: 2024-12-23 01:00:00
+  - Start Open Price: 95161.70
+  - End Time: 2024-12-23 01:29:59.999000
+  - End Close Price: 94924.30
+
+Interval with 7 candles:
+  - Start Time: 2024-12-23 04:00:00
+  - Start Open Price: 94371.20
+  - End Time: 2024-12-23 07:29:59.999000
+  - End Close Price: 96070.30
+
+Interval with 9 candles:
+  - Start Time: 2024-12-23 16:30:00
+  - Start Open Price: 95755.60
+  - End Time: 2024-12-23 20:59:59.999000
+  - End Close Price: 93341.20
+
+Interval with 2 candles:
+  - Start Time: 2024-12-23 21:30:00
+  - Start Open Price: 93232.10
+  - End Time: 2024-12-23 22:29:59.999000
+  - End Close Price: 93402.70
+
+Interval with 3 candles:
+  - Start Time: 2024-12-23 23:00:00
+  - Start Open Price: 92997.70
+  - End Time: 2024-12-24 00:29:59.999000
+  - End Close Price: 94040.60
+
+Interval with 1 candles:
+  - Start Time: 2024-12-24 02:00:00
+  - Start Open Price: 95162.20
+  - End Time: 2024-12-24 02:29:59.999000
+  - End Close Price: 95100.00
+
+Interval with 10 candles:
+  - Start Time: 2024-12-24 16:30:00
+  - Start Open Price: 94741.80
+  - End Time: 2024-12-24 21:29:59.999000
+  - End Close Price: 98417.90
+
+Interval with 2 candles:
+  - Start Time: 2024-12-24 22:30:00
+  - Start Open Price: 98173.50
+  - End Time: 2024-12-24 23:29:59.999000
+  - End Close Price: 97786.10
+
+Interval with 2 candles:
+  - Start Time: 2024-12-25 13:00:00
+  - Start Open Price: 98150.00
+  - End Time: 2024-12-25 13:59:59.999000
+  - End Close Price: 98405.00
+
+Interval with 2 candles:
+  - Start Time: 2024-12-25 15:00:00
+  - Start Open Price: 97888.40
+  - End Time: 2024-12-25 15:59:59.999000
+  - End Close Price: 98140.30
+
+Interval with 1 candles:
+  - Start Time: 2024-12-26 00:00:00
+  - Start Open Price: 99103.00
+  - End Time: 2024-12-26 00:29:59.999000
+  - End Close Price: 98641.10
+
+Interval with 1 candles:
+  - Start Time: 2024-12-26 03:00:00
+  - Start Open Price: 99379.60
+  - End Time: 2024-12-26 03:29:59.999000
+  - End Close Price: 99279.90
+
+Interval with 3 candles:
+  - Start Time: 2024-12-26 11:00:00
+  - Start Open Price: 97669.50
+  - End Time: 2024-12-26 12:29:59.999000
+  - End Close Price: 95627.10
+
+Interval with 5 candles:
+  - Start Time: 2024-12-26 17:00:00
+  - Start Open Price: 95654.40
+  - End Time: 2024-12-26 19:29:59.999000
+  - End Close Price: 95876.10
+
+Interval with 2 candles:
+  - Start Time: 2024-12-27 10:30:00
+  - Start Open Price: 95527.90
+  - End Time: 2024-12-27 11:29:59.999000
+  - End Close Price: 96050.00
+
+Interval with 1 candles:
+  - Start Time: 2024-12-27 12:00:00
+  - Start Open Price: 95697.80
+  - End Time: 2024-12-27 12:29:59.999000
+  - End Close Price: 96828.70
+
+Interval with 7 candles:
+  - Start Time: 2024-12-27 17:30:00
+  - Start Open Price: 96307.20
+  - End Time: 2024-12-27 20:59:59.999000
+  - End Close Price: 94268.50
+
